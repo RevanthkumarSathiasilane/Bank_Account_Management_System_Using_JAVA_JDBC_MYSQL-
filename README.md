@@ -32,7 +32,7 @@ management, and layered OOP architecture.
 - JDBC (`java.sql.*`)
 - MySQL 8
 - MySQL Connector/J (JDBC driver jar - see setup below)
-- IntelliJ IDEA / Eclipse
+- IntelliJ IDEA
 - Git
 
 ---
