@@ -6,14 +6,10 @@ import model.Account;
 import model.Transaction;
 import service.BankService;
 import util.Menu;
-
 import java.sql.SQLException;
 import java.util.List;
 import java.util.Scanner;
 public class BankApplication {
-
-    public class Main {
-
         private static final Scanner scanner = new Scanner(System.in);
         private static final BankService bankService = new BankService();
 
