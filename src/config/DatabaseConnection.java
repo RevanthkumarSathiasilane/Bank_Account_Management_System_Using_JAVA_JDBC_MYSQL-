@@ -27,7 +27,7 @@ import java.sql.SQLException;
  * try-with-resources) as soon as the operation is complete. This is the
  * simplest correct pattern for a console application. For a real
  * production web application you would instead use a CONNECTION POOL
- * (e.g. HikariCP) - see README "Connection Pooling" explanation.
+ * (e.g. HikariCP) - see README.md "Connection Pooling" explanation.
  */
 public class DatabaseConnection {
 
