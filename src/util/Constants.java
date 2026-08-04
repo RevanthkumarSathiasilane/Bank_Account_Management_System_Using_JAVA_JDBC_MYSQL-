@@ -14,7 +14,7 @@ public class Constants {
     // NOTE: Update these values to match your local MySQL installation.
     public static final String DB_URL = "jdbc:mysql://localhost:3306/bank_management";
     public static final String DB_USER = "root";
-    public static final String DB_PASSWORD = "Root@123"; // change to your MySQL password
+    public static final String DB_PASSWORD = "Root@123";
 
     // ---------- Business rules ----------
     public static final double MINIMUM_OPENING_BALANCE = 500.00;
